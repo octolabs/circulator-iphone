@@ -1,9 +1,0 @@
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m: In function '-[RoutesViewController tableView:numberOfRowsInSection:]':
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m:23: warning: 'CirculatorGPSAppDelegate' may not respond to '-routes'
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m:23: warning: (Messages without a matching method signature
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m:23: warning: will be assumed to return 'id' and accept
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m:23: warning: '...' as arguments.)
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m: In function '-[RoutesViewController tableView:cellForRowAtIndexPath:]':
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m:29: warning: 'CirculatorGPSAppDelegate' may not respond to '-routes'
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m: In function '-[RoutesViewController tableView:heightForRowAtIndexPath:]':
-/Users/marc/Documents/OCTO/svn.in.dc.gov/old_main/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Classes/RoutesViewController.m:53: warning: 'CirculatorGPSAppDelegate' may not respond to '-routes'
