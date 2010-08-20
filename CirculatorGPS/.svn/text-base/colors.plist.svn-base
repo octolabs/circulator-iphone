@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Union Station - Navy Yard Metro</string>
+		<key>color</key>
+		<string>blue</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Woodley Park - Adams Morgan - McPherson Square Metro</string>
+		<key>color</key>
+		<string>green</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Convention Center - SW Waterfront</string>
+		<key>color</key>
+		<string>red</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Georgetown - Union Station</string>
+		<key>color</key>
+		<string>yellow</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Smithsonian - National Gallery of Art Loop</string>
+		<key>color</key>
+		<string>purple</string>
+	</dict>
+</array>
+</plist>

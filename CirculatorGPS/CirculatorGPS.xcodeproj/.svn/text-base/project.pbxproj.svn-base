@@ -1,0 +1,364 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* CirculatorGPSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* CirculatorGPSAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		490A84C30FC343FD00A57F97 /* CoreLocationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 490A84C20FC343FD00A57F97 /* CoreLocationController.m */; };
+		49180C621007D0AC00EBDBA5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49180C611007D0AC00EBDBA5 /* UIKit.framework */; };
+		492583CB0FCD96AD005B7B55 /* TimetableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 492583CA0FCD96AD005B7B55 /* TimetableViewController.m */; };
+		4933A9340FD596DC00C245FA /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4933A9330FD596DC00C245FA /* CoreLocation.framework */; };
+		4942C4A21036032C0069E648 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4942C4A11036032C0069E648 /* Default.png */; };
+		49695DC70FE02D01003A6CC9 /* 07-map-marker.png in Resources */ = {isa = PBXBuildFile; fileRef = 49695DC40FE02D01003A6CC9 /* 07-map-marker.png */; };
+		49695DC80FE02D01003A6CC9 /* 55-network.png in Resources */ = {isa = PBXBuildFile; fileRef = 49695DC50FE02D01003A6CC9 /* 55-network.png */; };
+		49695DC90FE02D01003A6CC9 /* 74-location.png in Resources */ = {isa = PBXBuildFile; fileRef = 49695DC60FE02D01003A6CC9 /* 74-location.png */; };
+		49695DDE0FE02E71003A6CC9 /* 02-redo.png in Resources */ = {isa = PBXBuildFile; fileRef = 49695DDD0FE02E71003A6CC9 /* 02-redo.png */; };
+		49695E020FE03809003A6CC9 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 49695E010FE03809003A6CC9 /* icon.png */; };
+		49695E0B0FE03907003A6CC9 /* ColorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49695E0A0FE03907003A6CC9 /* ColorViewController.m */; };
+		49695EC30FE03BDD003A6CC9 /* colors.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49695EC20FE03BDD003A6CC9 /* colors.plist */; };
+		49740E680FD5B2A300C121E5 /* map.png in Resources */ = {isa = PBXBuildFile; fileRef = 49740E670FD5B2A300C121E5 /* map.png */; };
+		49B407880FC73E980075259D /* buses.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49B407840FC73E980075259D /* buses.plist */; };
+		49B407890FC73E980075259D /* routes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49B407850FC73E980075259D /* routes.plist */; };
+		49B4078A0FC73E980075259D /* stops.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49B407860FC73E980075259D /* stops.plist */; };
+		49B4078B0FC73E980075259D /* timetables.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49B407870FC73E980075259D /* timetables.plist */; };
+		49B408490FC746C50075259D /* RoutesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B408460FC746C50075259D /* RoutesViewController.m */; };
+		49B4084A0FC746C50075259D /* StopsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B408480FC746C50075259D /* StopsViewController.m */; };
+		49DA42380FC4551F000CDFFB /* JSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49DA42370FC4551F000CDFFB /* JSON.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* CirculatorGPSAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CirculatorGPSAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* CirculatorGPSAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CirculatorGPSAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* CirculatorGPS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CirculatorGPS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* CirculatorGPS_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CirculatorGPS_Prefix.pch; sourceTree = "<group>"; };
+		490A84C10FC343FD00A57F97 /* CoreLocationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreLocationController.h; sourceTree = "<group>"; };
+		490A84C20FC343FD00A57F97 /* CoreLocationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoreLocationController.m; sourceTree = "<group>"; };
+		49180C611007D0AC00EBDBA5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		492583C90FCD96AD005B7B55 /* TimetableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimetableViewController.h; sourceTree = "<group>"; };
+		492583CA0FCD96AD005B7B55 /* TimetableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimetableViewController.m; sourceTree = "<group>"; };
+		4933A9330FD596DC00C245FA /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		4942C4A11036032C0069E648 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		49695DC40FE02D01003A6CC9 /* 07-map-marker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "07-map-marker.png"; path = "images/07-map-marker.png"; sourceTree = "<group>"; };
+		49695DC50FE02D01003A6CC9 /* 55-network.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "55-network.png"; path = "images/55-network.png"; sourceTree = "<group>"; };
+		49695DC60FE02D01003A6CC9 /* 74-location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "74-location.png"; path = "images/74-location.png"; sourceTree = "<group>"; };
+		49695DDD0FE02E71003A6CC9 /* 02-redo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "02-redo.png"; path = "images/02-redo.png"; sourceTree = "<group>"; };
+		49695E010FE03809003A6CC9 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		49695E090FE03907003A6CC9 /* ColorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorViewController.h; sourceTree = "<group>"; };
+		49695E0A0FE03907003A6CC9 /* ColorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorViewController.m; sourceTree = "<group>"; };
+		49695EC20FE03BDD003A6CC9 /* colors.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colors.plist; sourceTree = "<group>"; };
+		49740E670FD5B2A300C121E5 /* map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = map.png; path = images/map.png; sourceTree = "<group>"; };
+		49B407840FC73E980075259D /* buses.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = buses.plist; sourceTree = "<group>"; };
+		49B407850FC73E980075259D /* routes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = routes.plist; sourceTree = "<group>"; };
+		49B407860FC73E980075259D /* stops.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = stops.plist; sourceTree = "<group>"; };
+		49B407870FC73E980075259D /* timetables.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = timetables.plist; sourceTree = "<group>"; };
+		49B408450FC746C50075259D /* RoutesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoutesViewController.h; sourceTree = "<group>"; };
+		49B408460FC746C50075259D /* RoutesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoutesViewController.m; sourceTree = "<group>"; };
+		49B408470FC746C50075259D /* StopsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StopsViewController.h; sourceTree = "<group>"; };
+		49B408480FC746C50075259D /* StopsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StopsViewController.m; sourceTree = "<group>"; };
+		49DA42370FC4551F000CDFFB /* JSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = JSON.framework; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				49DA42380FC4551F000CDFFB /* JSON.framework in Frameworks */,
+				4933A9340FD596DC00C245FA /* CoreLocation.framework in Frameworks */,
+				49180C621007D0AC00EBDBA5 /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				49B408450FC746C50075259D /* RoutesViewController.h */,
+				49B408460FC746C50075259D /* RoutesViewController.m */,
+				49B408470FC746C50075259D /* StopsViewController.h */,
+				49B408480FC746C50075259D /* StopsViewController.m */,
+				490A84C10FC343FD00A57F97 /* CoreLocationController.h */,
+				490A84C20FC343FD00A57F97 /* CoreLocationController.m */,
+				1D3623240D0F684500981E51 /* CirculatorGPSAppDelegate.h */,
+				1D3623250D0F684500981E51 /* CirculatorGPSAppDelegate.m */,
+				492583C90FCD96AD005B7B55 /* TimetableViewController.h */,
+				492583CA0FCD96AD005B7B55 /* TimetableViewController.m */,
+				49695E090FE03907003A6CC9 /* ColorViewController.h */,
+				49695E0A0FE03907003A6CC9 /* ColorViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* CirculatorGPS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* CirculatorGPS_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				49695E010FE03809003A6CC9 /* icon.png */,
+				4942C4A11036032C0069E648 /* Default.png */,
+				49695DDD0FE02E71003A6CC9 /* 02-redo.png */,
+				49695DC40FE02D01003A6CC9 /* 07-map-marker.png */,
+				49695DC50FE02D01003A6CC9 /* 55-network.png */,
+				49695DC60FE02D01003A6CC9 /* 74-location.png */,
+				49740E670FD5B2A300C121E5 /* map.png */,
+				49B407840FC73E980075259D /* buses.plist */,
+				49B407850FC73E980075259D /* routes.plist */,
+				49B407860FC73E980075259D /* stops.plist */,
+				49B407870FC73E980075259D /* timetables.plist */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				49695EC20FE03BDD003A6CC9 /* colors.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				49180C611007D0AC00EBDBA5 /* UIKit.framework */,
+				4933A9330FD596DC00C245FA /* CoreLocation.framework */,
+				49DA42370FC4551F000CDFFB /* JSON.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* CirculatorGPS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CirculatorGPS" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CirculatorGPS;
+			productName = CirculatorGPS;
+			productReference = 1D6058910D05DD3D006BFB54 /* CirculatorGPS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CirculatorGPS" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* CirculatorGPS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				49B407880FC73E980075259D /* buses.plist in Resources */,
+				49B407890FC73E980075259D /* routes.plist in Resources */,
+				49B4078A0FC73E980075259D /* stops.plist in Resources */,
+				49B4078B0FC73E980075259D /* timetables.plist in Resources */,
+				49740E680FD5B2A300C121E5 /* map.png in Resources */,
+				49695DC70FE02D01003A6CC9 /* 07-map-marker.png in Resources */,
+				49695DC80FE02D01003A6CC9 /* 55-network.png in Resources */,
+				49695DC90FE02D01003A6CC9 /* 74-location.png in Resources */,
+				49695DDE0FE02E71003A6CC9 /* 02-redo.png in Resources */,
+				49695E020FE03809003A6CC9 /* icon.png in Resources */,
+				49695EC30FE03BDD003A6CC9 /* colors.plist in Resources */,
+				4942C4A21036032C0069E648 /* Default.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* CirculatorGPSAppDelegate.m in Sources */,
+				490A84C30FC343FD00A57F97 /* CoreLocationController.m in Sources */,
+				49B408490FC746C50075259D /* RoutesViewController.m in Sources */,
+				49B4084A0FC746C50075259D /* StopsViewController.m in Sources */,
+				492583CB0FCD96AD005B7B55 /* TimetableViewController.m in Sources */,
+				49695E0B0FE03907003A6CC9 /* ColorViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Marc Irlandez (ULP94U4UJN)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Marc Irlandez (ULP94U4UJN)";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CirculatorGPS_Prefix.pch;
+				GCC_VERSION = 4.0;
+				"GCC_VERSION[sdk=iphoneos3.0][arch=*]" = 4.2;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = CirculatorGPS;
+				PROVISIONING_PROFILE = "BF825EE9-C9C1-442A-A13C-8CE5256D4D2F";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "BF825EE9-C9C1-442A-A13C-8CE5256D4D2F";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Marc Irlandez (ULP94U4UJN)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Marc Irlandez (ULP94U4UJN)";
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CirculatorGPS_Prefix.pch;
+				GCC_VERSION = 4.0;
+				"GCC_VERSION[sdk=iphoneos3.0][arch=*]" = 4.2;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = CirculatorGPS;
+				PROVISIONING_PROFILE = "BF825EE9-C9C1-442A-A13C-8CE5256D4D2F";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "BF825EE9-C9C1-442A-A13C-8CE5256D4D2F";
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ADDITIONAL_SDKS = "$HOME/Library/SDKs/JSON/${PLATFORM_NAME}.sdk";
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Marc Irlandez (ULP94U4UJN)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Marc Irlandez (ULP94U4UJN)";
+				CODE_SIGN_RESOURCE_RULES_PATH = "${SDKROOT}/ResourceRules.plist";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-ljson",
+				);
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "38DAB6A7-4460-4B15-9969-EB579D2F2FA4";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "38DAB6A7-4460-4B15-9969-EB579D2F2FA4";
+				SDKROOT = iphoneos2.2.1;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ADDITIONAL_SDKS = "$HOME/Library/SDKs/JSON/${PLATFORM_NAME}.sdk";
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Marc Irlandez (ULP94U4UJN)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Marc Irlandez (ULP94U4UJN)";
+				CODE_SIGN_RESOURCE_RULES_PATH = "${SDKROOT}/ResourceRules.plist";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-ljson",
+				);
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "38DAB6A7-4460-4B15-9969-EB579D2F2FA4";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "38DAB6A7-4460-4B15-9969-EB579D2F2FA4";
+				SDKROOT = iphoneos2.2.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CirculatorGPS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CirculatorGPS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

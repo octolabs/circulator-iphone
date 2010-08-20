@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/labs/main/!svn/ver/302/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/labs/main/!svn/ver/251/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/main.m
+END
+stops.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/labs/main/!svn/ver/251/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/stops.plist
+END
+timetables.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/labs/main/!svn/ver/251/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/timetables.plist
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/labs/main/!svn/ver/290/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Info.plist
+END
+CirculatorGPS_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/labs/main/!svn/ver/251/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/CirculatorGPS_Prefix.pch
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/labs/main/!svn/ver/298/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Default.png
+END
+buses.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/labs/main/!svn/ver/251/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/buses.plist
+END
+routes.plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/labs/main/!svn/ver/301/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/routes.plist
+END
+colors.plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/labs/main/!svn/ver/272/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/colors.plist
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/labs/main/!svn/ver/272/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/icon.png
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/labs/main/!svn/ver/278/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/MainWindow.xib
+END

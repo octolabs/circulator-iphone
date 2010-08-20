@@ -1,0 +1,860 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CirculatorGPSAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {776, 1344}}";
+			sepNavSelRange = "{1615, 10}";
+			sepNavVisRange = "{1093, 978}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CirculatorGPSAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 4956}}";
+			sepNavSelRange = "{7808, 0}";
+			sepNavVisRange = "{6465, 1154}";
+			sepNavWindowFrame = "{{38, 155}, {920, 697}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CirculatorGPS */ = {
+		activeExec = 0;
+		executables = (
+			490A84580FC2F98100A57F97 /* CirculatorGPS */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 490A84580FC2F98100A57F97 /* CirculatorGPS */;
+		activeSDKPreference = iphonesimulator3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CirculatorGPS */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CirculatorGPS */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 490A845F0FC2F98600A57F97 /* Code sense */;
+		executables = (
+			490A84580FC2F98100A57F97 /* CirculatorGPS */,
+		);
+		expressions = (
+			routes,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					399,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					874,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					598,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 273184733;
+			PBXWorkspaceStateSaveDate = 273184733;
+		};
+		perUserProjectItems = {
+			490A846B0FC300A300A57F97 /* PBXTextBookmark */ = 490A846B0FC300A300A57F97 /* PBXTextBookmark */;
+			490A846C0FC300A300A57F97 /* PBXTextBookmark */ = 490A846C0FC300A300A57F97 /* PBXTextBookmark */;
+			490A84C70FC3478500A57F97 /* PBXTextBookmark */ = 490A84C70FC3478500A57F97 /* PBXTextBookmark */;
+			490A84CF0FC3478500A57F97 /* PBXTextBookmark */ = 490A84CF0FC3478500A57F97 /* PBXTextBookmark */;
+			490A84D50FC3478500A57F97 /* PBXTextBookmark */ = 490A84D50FC3478500A57F97 /* PBXTextBookmark */;
+			490A84D70FC3478500A57F97 /* PBXTextBookmark */ = 490A84D70FC3478500A57F97 /* PBXTextBookmark */;
+			49180C011007CC1400EBDBA5 /* PlistBookmark */ = 49180C011007CC1400EBDBA5 /* PlistBookmark */;
+			492582F30FCD83AE005B7B55 /* PlistBookmark */ = 492582F30FCD83AE005B7B55 /* PlistBookmark */;
+			492583D60FCD9797005B7B55 /* PlistBookmark */ = 492583D60FCD9797005B7B55 /* PlistBookmark */;
+			492583E80FCD9797005B7B55 /* PBXTextBookmark */ = 492583E80FCD9797005B7B55 /* PBXTextBookmark */;
+			492583EB0FCD9797005B7B55 /* PBXTextBookmark */ = 492583EB0FCD9797005B7B55 /* PBXTextBookmark */;
+			492583F10FCD9797005B7B55 /* PlistBookmark */ = 492583F10FCD9797005B7B55 /* PlistBookmark */;
+			492583F20FCD9797005B7B55 /* PlistBookmark */ = 492583F20FCD9797005B7B55 /* PlistBookmark */;
+			4933A8C80FD57A2800C245FA /* PlistBookmark */ = 4933A8C80FD57A2800C245FA /* PlistBookmark */;
+			4942C49A1036030D0069E648 /* PBXTextBookmark */ = 4942C49A1036030D0069E648 /* PBXTextBookmark */;
+			4942C49B1036030D0069E648 /* PBXBookmark */ = 4942C49B1036030D0069E648 /* PBXBookmark */;
+			4942C49D1036030D0069E648 /* PBXBookmark */ = 4942C49D1036030D0069E648 /* PBXBookmark */;
+			4942C4C3103608930069E648 /* PBXBookmark */ = 4942C4C3103608930069E648 /* PBXBookmark */;
+			4942C4C4103608930069E648 /* PBXBookmark */ = 4942C4C4103608930069E648 /* PBXBookmark */;
+			4968010410100653006A821F /* PBXTextBookmark */ = 4968010410100653006A821F /* PBXTextBookmark */;
+			49695EE40FE0471A003A6CC9 /* PBXBookmark */ = 49695EE40FE0471A003A6CC9 /* PBXBookmark */;
+			49695EF60FE0471A003A6CC9 /* PBXBookmark */ = 49695EF60FE0471A003A6CC9 /* PBXBookmark */;
+			49695EFA0FE0471A003A6CC9 /* PBXTextBookmark */ = 49695EFA0FE0471A003A6CC9 /* PBXTextBookmark */;
+			49695F010FE0471A003A6CC9 /* PBXTextBookmark */ = 49695F010FE0471A003A6CC9 /* PBXTextBookmark */;
+			49695F050FE0471A003A6CC9 /* PlistBookmark */ = 49695F050FE0471A003A6CC9 /* PlistBookmark */;
+			49695FE60FE05373003A6CC9 /* PBXTextBookmark */ = 49695FE60FE05373003A6CC9 /* PBXTextBookmark */;
+			49740E5D0FD5B13E00C121E5 /* PlistBookmark */ = 49740E5D0FD5B13E00C121E5 /* PlistBookmark */;
+			49A2DB541017ABD600B81666 /* PBXTextBookmark */ = 49A2DB541017ABD600B81666 /* PBXTextBookmark */;
+			49A2DB561017ABD600B81666 /* PBXTextBookmark */ = 49A2DB561017ABD600B81666 /* PBXTextBookmark */;
+			49A2DB571017ABD600B81666 /* PBXTextBookmark */ = 49A2DB571017ABD600B81666 /* PBXTextBookmark */;
+			49B408770FC7479B0075259D /* PBXTextBookmark */ = 49B408770FC7479B0075259D /* PBXTextBookmark */;
+			49B4087C0FC7479B0075259D /* PBXTextBookmark */ = 49B4087C0FC7479B0075259D /* PBXTextBookmark */;
+			49B4087D0FC7479B0075259D /* PBXTextBookmark */ = 49B4087D0FC7479B0075259D /* PBXTextBookmark */;
+			49C62E5E10487A0400729ED8 /* PBXTextBookmark */ = 49C62E5E10487A0400729ED8 /* PBXTextBookmark */;
+			49C62E5F10487A0400729ED8 /* PlistBookmark */ = 49C62E5F10487A0400729ED8 /* PlistBookmark */;
+			49C62E6010487A0400729ED8 /* PBXTextBookmark */ = 49C62E6010487A0400729ED8 /* PBXTextBookmark */;
+			49C62E6110487A0400729ED8 /* PBXTextBookmark */ = 49C62E6110487A0400729ED8 /* PBXTextBookmark */;
+			49C62E6210487A0400729ED8 /* PBXTextBookmark */ = 49C62E6210487A0400729ED8 /* PBXTextBookmark */;
+			49C62E6310487A0400729ED8 /* PlistBookmark */ = 49C62E6310487A0400729ED8 /* PlistBookmark */;
+			49C62E6410487A0400729ED8 /* PBXTextBookmark */ = 49C62E6410487A0400729ED8 /* PBXTextBookmark */;
+			49C62E6510487A0400729ED8 /* PlistBookmark */ = 49C62E6510487A0400729ED8 /* PlistBookmark */;
+			49C62E6610487A0400729ED8 /* PlistBookmark */ = 49C62E6610487A0400729ED8 /* PlistBookmark */;
+			49C62E6710487A0400729ED8 /* PlistBookmark */ = 49C62E6710487A0400729ED8 /* PlistBookmark */;
+			49C62E6810487A0400729ED8 /* PlistBookmark */ = 49C62E6810487A0400729ED8 /* PlistBookmark */;
+			49C62E6910487A0400729ED8 /* PlistBookmark */ = 49C62E6910487A0400729ED8 /* PlistBookmark */;
+			49C62E6A10487A0400729ED8 /* PBXTextBookmark */ = 49C62E6A10487A0400729ED8 /* PBXTextBookmark */;
+			49C62E6B10487A0400729ED8 /* PBXTextBookmark */ = 49C62E6B10487A0400729ED8 /* PBXTextBookmark */;
+			49C62E6C10487A0400729ED8 /* PBXTextBookmark */ = 49C62E6C10487A0400729ED8 /* PBXTextBookmark */;
+			49C62E6E10487A1700729ED8 /* PlistBookmark */ = 49C62E6E10487A1700729ED8 /* PlistBookmark */;
+			49CC9A701021DFFD00305A7F /* PBXTextBookmark */ = 49CC9A701021DFFD00305A7F /* PBXTextBookmark */;
+			49CC9A711021DFFD00305A7F /* PBXTextBookmark */ = 49CC9A711021DFFD00305A7F /* PBXTextBookmark */;
+			49CC9A721021DFFD00305A7F /* PlistBookmark */ = 49CC9A721021DFFD00305A7F /* PlistBookmark */;
+			49DA42CC0FC46AB8000CDFFB /* PBXTextBookmark */ = 49DA42CC0FC46AB8000CDFFB /* PBXTextBookmark */;
+			49DA42D10FC46AB8000CDFFB /* PBXTextBookmark */ = 49DA42D10FC46AB8000CDFFB /* PBXTextBookmark */;
+			49FF09720FCC68B10042FFF0 /* PBXTextBookmark */ = 49FF09720FCC68B10042FFF0 /* PBXTextBookmark */;
+			49FF0A5E0FCC7D130042FFF0 /* PlistBookmark */ = 49FF0A5E0FCC7D130042FFF0 /* PlistBookmark */;
+		};
+		sourceControlManager = 490A845E0FC2F98600A57F97 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {689, 550}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 368}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* CirculatorGPS_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {689, 421}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	490A84580FC2F98100A57F97 /* CirculatorGPS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CirculatorGPS;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	490A845E0FC2F98600A57F97 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = svn.in.dc.gov;
+		};
+	};
+	490A845F0FC2F98600A57F97 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	490A846B0FC300A300A57F97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CirculatorGPSAppDelegate.m */;
+		name = "CirculatorGPSAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	490A846C0FC300A300A57F97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CirculatorGPSAppDelegate.h */;
+		name = "CirculatorGPSAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 346;
+		vrLoc = 0;
+	};
+	490A84C10FC343FD00A57F97 /* CoreLocationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {840, 795}}";
+			sepNavSelRange = "{0, 38}";
+			sepNavVisRange = "{0, 710}";
+		};
+	};
+	490A84C20FC343FD00A57F97 /* CoreLocationController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 518}}";
+			sepNavSelRange = "{539, 0}";
+			sepNavVisRange = "{0, 756}";
+		};
+	};
+	490A84C70FC3478500A57F97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* CirculatorGPS_Prefix.pch */;
+		name = "CirculatorGPS_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	490A84CF0FC3478500A57F97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* CirculatorGPS_Prefix.pch */;
+		name = "CirculatorGPS_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	490A84D50FC3478500A57F97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 490A84C10FC343FD00A57F97 /* CoreLocationController.h */;
+		name = "MyCLController.h: 3";
+		rLen = 48;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 0;
+	};
+	490A84D70FC3478500A57F97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 490A84C20FC343FD00A57F97 /* CoreLocationController.m */;
+		name = "MyCLController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 0;
+	};
+	49180C011007CC1400EBDBA5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	492582F30FCD83AE005B7B55 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407860FC73E980075259D /* stops.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/stops.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	492583C90FCD96AD005B7B55 /* TimetableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 506}}";
+			sepNavSelRange = "{445, 88}";
+			sepNavVisRange = "{0, 539}";
+			sepNavWindowFrame = "{{15, 176}, {920, 697}}";
+		};
+	};
+	492583CA0FCD96AD005B7B55 /* TimetableViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{5090, 657}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 7736}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 3150}}";
+			sepNavSelRange = "{1059, 15}";
+			sepNavVisRange = "{648, 650}";
+			sepNavWindowFrame = "{{15, 176}, {920, 697}}";
+		};
+	};
+	492583D60FCD9797005B7B55 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407870FC73E980075259D /* timetables.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/timetables.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	492583E80FCD9797005B7B55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 492583C90FCD96AD005B7B55 /* TimetableViewController.h */;
+		name = "TimetableViewController.h: 16";
+		rLen = 0;
+		rLoc = 538;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	492583EB0FCD9797005B7B55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 492583CA0FCD96AD005B7B55 /* TimetableViewController.m */;
+		name = "TimetableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 0;
+	};
+	492583F10FCD9797005B7B55 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407870FC73E980075259D /* timetables.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/timetables.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	492583F20FCD9797005B7B55 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407840FC73E980075259D /* buses.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/buses.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	4933A8C80FD57A2800C245FA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407840FC73E980075259D /* buses.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/buses.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	4942C49A1036030D0069E648 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CirculatorGPSAppDelegate.m */;
+		name = "CirculatorGPSAppDelegate.m: 204";
+		rLen = 0;
+		rLoc = 7171;
+		rType = 0;
+		vrLen = 1340;
+		vrLoc = 6327;
+	};
+	4942C49B1036030D0069E648 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 49695DDD0FE02E71003A6CC9 /* 02-redo.png */;
+	};
+	4942C49D1036030D0069E648 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 49695DDD0FE02E71003A6CC9 /* 02-redo.png */;
+	};
+	4942C4C3103608930069E648 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4942C4A11036032C0069E648 /* Default.png */;
+	};
+	4942C4C4103608930069E648 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4942C4A11036032C0069E648 /* Default.png */;
+	};
+	4968010410100653006A821F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 490A84C20FC343FD00A57F97 /* CoreLocationController.m */;
+		name = "CoreLocationController.m: 22";
+		rLen = 0;
+		rLoc = 539;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 0;
+	};
+	49695E090FE03907003A6CC9 /* ColorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 506}}";
+			sepNavSelRange = "{321, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	49695E0A0FE03907003A6CC9 /* ColorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 2044}}";
+			sepNavSelRange = "{3153, 0}";
+			sepNavVisRange = "{348, 1636}";
+		};
+	};
+	49695EE40FE0471A003A6CC9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 49695DC40FE02D01003A6CC9 /* 07-map-marker.png */;
+	};
+	49695EF60FE0471A003A6CC9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 49695DC40FE02D01003A6CC9 /* 07-map-marker.png */;
+	};
+	49695EFA0FE0471A003A6CC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49695E090FE03907003A6CC9 /* ColorViewController.h */;
+		name = "DirectionViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 249;
+		vrLoc = 0;
+	};
+	49695F010FE0471A003A6CC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49695E0A0FE03907003A6CC9 /* ColorViewController.m */;
+		name = "DirectionViewController.m: 12";
+		rLen = 0;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 824;
+		vrLoc = 0;
+	};
+	49695F050FE0471A003A6CC9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49695EC20FE03BDD003A6CC9 /* colors.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"New item",
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/RouteColor.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49695FE60FE05373003A6CC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 490A84C10FC343FD00A57F97 /* CoreLocationController.h */;
+		name = "CoreLocationController.h: 1";
+		rLen = 38;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 710;
+		vrLoc = 0;
+	};
+	49740E5D0FD5B13E00C121E5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49A2DB541017ABD600B81666 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CirculatorGPSAppDelegate.h */;
+		name = "CirculatorGPSAppDelegate.h: 81";
+		rLen = 15;
+		rLoc = 2584;
+		rType = 0;
+		vrLen = 1298;
+		vrLoc = 1750;
+	};
+	49A2DB561017ABD600B81666 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 492583CA0FCD96AD005B7B55 /* TimetableViewController.m */;
+		name = "TimetableViewController.m: 33";
+		rLen = 446;
+		rLoc = 850;
+		rType = 0;
+		vrLen = 925;
+		vrLoc = 0;
+	};
+	49A2DB571017ABD600B81666 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 492583C90FCD96AD005B7B55 /* TimetableViewController.h */;
+		name = "TimetableViewController.h: 19";
+		rLen = 88;
+		rLoc = 445;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 0;
+	};
+	49B407840FC73E980075259D /* buses.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 216}, {979, 636}}";
+		};
+	};
+	49B407850FC73E980075259D /* routes.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 176}, {920, 697}}";
+		};
+	};
+	49B407870FC73E980075259D /* timetables.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	49B408450FC746C50075259D /* RoutesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 393}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 337}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	49B408460FC746C50075259D /* RoutesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1052, 1974}}";
+			sepNavSelRange = "{2389, 12}";
+			sepNavVisRange = "{1756, 1420}";
+		};
+	};
+	49B408470FC746C50075259D /* StopsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 393}}";
+			sepNavSelRange = "{533, 0}";
+			sepNavVisRange = "{0, 539}";
+		};
+	};
+	49B408480FC746C50075259D /* StopsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1052, 2380}}";
+			sepNavSelRange = "{2032, 0}";
+			sepNavVisRange = "{0, 923}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	49B408770FC7479B0075259D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408480FC746C50075259D /* StopsViewController.m */;
+		name = "StopsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1061;
+		vrLoc = 0;
+	};
+	49B4087C0FC7479B0075259D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408450FC746C50075259D /* RoutesViewController.h */;
+		name = "RoutesViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	49B4087D0FC7479B0075259D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408460FC746C50075259D /* RoutesViewController.m */;
+		name = "RoutesViewController.m: 10";
+		rLen = 0;
+		rLoc = 229;
+		rType = 0;
+		vrLen = 936;
+		vrLoc = 0;
+	};
+	49C62E5E10487A0400729ED8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408450FC746C50075259D /* RoutesViewController.h */;
+		name = "RoutesViewController.h: 18";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	49C62E5F10487A0400729ED8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407860FC73E980075259D /* stops.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/stops.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49C62E6010487A0400729ED8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408470FC746C50075259D /* StopsViewController.h */;
+		name = "StopsViewController.h: 21";
+		rLen = 0;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 0;
+	};
+	49C62E6110487A0400729ED8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408480FC746C50075259D /* StopsViewController.m */;
+		name = "StopsViewController.m: 72";
+		rLen = 0;
+		rLoc = 2032;
+		rType = 0;
+		vrLen = 923;
+		vrLoc = 0;
+	};
+	49C62E6210487A0400729ED8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408460FC746C50075259D /* RoutesViewController.m */;
+		name = "RoutesViewController.m: 64";
+		rLen = 12;
+		rLoc = 2389;
+		rType = 0;
+		vrLen = 1420;
+		vrLoc = 1756;
+	};
+	49C62E6310487A0400729ED8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407850FC73E980075259D /* routes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/routes.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49C62E6410487A0400729ED8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408450FC746C50075259D /* RoutesViewController.h */;
+		name = "RoutesViewController.h: 18";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	49C62E6510487A0400729ED8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407850FC73E980075259D /* routes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/routes.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49C62E6610487A0400729ED8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407860FC73E980075259D /* stops.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/stops.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49C62E6710487A0400729ED8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407850FC73E980075259D /* routes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/routes.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49C62E6810487A0400729ED8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407860FC73E980075259D /* stops.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/stops.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49C62E6910487A0400729ED8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407850FC73E980075259D /* routes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/routes.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49C62E6A10487A0400729ED8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408470FC746C50075259D /* StopsViewController.h */;
+		name = "StopsViewController.h: 21";
+		rLen = 0;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 0;
+	};
+	49C62E6B10487A0400729ED8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408480FC746C50075259D /* StopsViewController.m */;
+		name = "StopsViewController.m: 72";
+		rLen = 0;
+		rLoc = 2032;
+		rType = 0;
+		vrLen = 923;
+		vrLoc = 0;
+	};
+	49C62E6C10487A0400729ED8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408460FC746C50075259D /* RoutesViewController.m */;
+		name = "RoutesViewController.m: 64";
+		rLen = 12;
+		rLoc = 2389;
+		rType = 0;
+		vrLen = 1420;
+		vrLoc = 1756;
+	};
+	49C62E6E10487A1700729ED8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407850FC73E980075259D /* routes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			6,
+			desc,
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/routes.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49CC9A701021DFFD00305A7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49695E090FE03907003A6CC9 /* ColorViewController.h */;
+		name = "ColorViewController.h: 16";
+		rLen = 0;
+		rLoc = 321;
+		rType = 0;
+		vrLen = 327;
+		vrLoc = 0;
+	};
+	49CC9A711021DFFD00305A7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49695E0A0FE03907003A6CC9 /* ColorViewController.m */;
+		name = "ColorViewController.m: 91";
+		rLen = 0;
+		rLoc = 3153;
+		rType = 0;
+		vrLen = 1636;
+		vrLoc = 348;
+	};
+	49CC9A721021DFFD00305A7F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49695EC20FE03BDD003A6CC9 /* colors.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/colors.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	49DA42CC0FC46AB8000CDFFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	49DA42D10FC46AB8000CDFFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	49FF09720FCC68B10042FFF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49B408470FC746C50075259D /* StopsViewController.h */;
+		name = "StopsViewController.h: 3";
+		rLen = 0;
+		rLoc = 57;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	49FF0A5E0FCC7D130042FFF0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49B407850FC73E980075259D /* routes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/marc/Documents/OCTO/svn.in.dc.gov/main/circulator.dc.gov/trunk/src/iPhone/CirculatorGPS/routes.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{527, 102}, {920, 697}}";
+		};
+	};
+}

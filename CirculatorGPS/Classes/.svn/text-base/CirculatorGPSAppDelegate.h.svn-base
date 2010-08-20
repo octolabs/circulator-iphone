@@ -1,0 +1,96 @@
+//
+//  CirculatorGPSAppDelegate.h
+//  CirculatorGPS
+//
+//  Created by Marc Irlandez on 5/19/09.
+//  Copyright __MyCompanyName__ 2009. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@class CoreLocationController;
+@class ColorViewController;
+@class RoutesViewController;
+@class StopsViewController;
+@class TimetableViewController;
+@class CLLocation;
+
+@interface CirculatorGPSAppDelegate : NSObject <UIApplicationDelegate, UIScrollViewDelegate> {
+    IBOutlet UIWindow *window;
+	IBOutlet UITabBarController *tabBarController;
+	IBOutlet UIScrollView *mapScrollView;
+	UIImageView *mapImage;
+
+	IBOutlet UINavigationController *findNavController;
+
+	IBOutlet ColorViewController *colorViewController;
+	IBOutlet RoutesViewController *routesViewController;
+	IBOutlet StopsViewController *stopsViewController;
+	IBOutlet TimetableViewController *timetableViewController;
+	
+	NSArray *colors;
+	NSArray *routes;
+	NSArray *stops;
+	NSArray *buses;
+	NSArray *timetables;
+	
+	NSDictionary *currentColor;
+	NSDictionary *currentRoute;
+	NSDictionary *currentStop;
+	NSArray *currentRoutes;
+	NSArray *currentStops;
+	NSArray *currentBuses;
+	NSArray *currentTimetables;
+	
+	CLLocation *currentLocation;
+	
+	UIActivityIndicatorView *activityIndicator;
+}
+
+@property (nonatomic, retain) UIWindow *window;
+@property (nonatomic, retain) UITabBarController *tabBarController;
+@property (nonatomic, retain) UIScrollView *mapScrollView;
+@property (nonatomic, retain) UIImageView *mapImage;
+
+- (id) objectWithUrl:(NSURL *)url;
+- (NSDictionary *) getColor:(NSString *)routeName;
+- (NSMutableArray *) getRoutes:(NSDictionary *)color;
+- (NSDictionary *) getRoute:(NSString *)routeName;
+- (NSMutableArray *) getStops:(NSDictionary *)route;
+- (NSDictionary *) getStop:(NSString *)stopName;
+- (NSDictionary *) getClosestStop:(NSDictionary *)route;
+- (NSArray *) getClosestBuses:(NSDictionary *)stop;
+
+- (void) colorClicked:(NSString *) routeName;
+- (void) routeClicked:(NSString *) routeName;
+- (void) stopClicked:(NSString *) stopName;
+
+@property (nonatomic, retain) UINavigationController *findNavController;
+
+@property (nonatomic, retain) ColorViewController *colorViewController;
+@property (nonatomic, retain) RoutesViewController *routesViewController;
+@property (nonatomic, retain) StopsViewController *stopsViewController;
+@property (nonatomic, retain) TimetableViewController *timetableViewController;
+
+@property (retain) NSArray *colors;
+@property (retain) NSArray *routes;
+@property (retain) NSArray *stops;
+@property (retain) NSArray *buses;
+@property (retain) NSArray *timetables;
+
+@property (retain) CLLocation *currentLocation;
+@property (retain) NSDictionary *currentColor;
+@property (retain) NSDictionary *currentRoute;
+@property (retain) NSDictionary *currentStop;
+
+@property (retain) NSArray *currentRoutes;
+@property (retain) NSArray *currentStops;
+@property (retain) NSArray *currentBuses;
+@property (retain) NSArray *currentTimetables;
+
+@property (nonatomic, retain) UIActivityIndicatorView *activityIndicator;
+
+- (NSArray *) getTimetables:(NSString *)routeId;
+
+@end
+

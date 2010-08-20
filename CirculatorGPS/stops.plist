@@ -1,0 +1,2630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>24th St. NW And Calvert St. NW</string>
+		<key>lon</key>
+		<string>-77.05259844</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0100</string>
+		<key>lat</key>
+		<string>38.92347235</string>
+		<key>desc</key>
+		<string>24th Street NW And Calvert Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Conn. Av. NW And Calvert St. NW</string>
+		<key>lon</key>
+		<string>-77.05151343</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0101</string>
+		<key>lat</key>
+		<string>38.9235295</string>
+		<key>desc</key>
+		<string>Connecticut Avenue NW And Calvert Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Calvert St. NW And Lanier Place NW</string>
+		<key>lon</key>
+		<string>-77.04367089</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0102</string>
+		<key>lat</key>
+		<string>38.92342967</string>
+		<key>desc</key>
+		<string>Calvert Street NW And Lanier Place NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mt. Pleasant St. NW And Irving St. NW</string>
+		<key>lon</key>
+		<string>-77.0373506</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0103</string>
+		<key>lat</key>
+		<string>38.92873331</string>
+		<key>desc</key>
+		<string>Mount Pleasant Street NW And Irving Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Irving St. NW And 14th St. NW</string>
+		<key>lon</key>
+		<string>-77.03264109</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0104</string>
+		<key>lat</key>
+		<string>38.92880662</string>
+		<key>desc</key>
+		<string>Irving Street NW And 14th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>14th St. NW And U St. NW</string>
+		<key>lon</key>
+		<string>-77.03195074</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0105</string>
+		<key>lat</key>
+		<string>38.91699779</string>
+		<key>desc</key>
+		<string>14th Street NW And U Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>14th St. NW And P St. NW</string>
+		<key>lon</key>
+		<string>-77.03195183</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0106</string>
+		<key>lat</key>
+		<string>38.90964762</string>
+		<key>desc</key>
+		<string>14th Street NW And P Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. And 13th St. NW</string>
+		<key>lon</key>
+		<string>-77.02962613</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0107</string>
+		<key>lat</key>
+		<string>38.9025224</string>
+		<key>desc</key>
+		<string>K Street And 13th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>I St. NW And 14th St. NW</string>
+		<key>lon</key>
+		<string>-77.03196286</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>1</string>
+		<key>stop_id</key>
+		<string>0108</string>
+		<key>lat</key>
+		<string>38.90133823</string>
+		<key>desc</key>
+		<string>I Street NW And 14th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>I St. NW And 14th St. NW</string>
+		<key>lon</key>
+		<string>-77.03196286</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>2</string>
+		<key>stop_id</key>
+		<string>0200</string>
+		<key>lat</key>
+		<string>38.90133823</string>
+		<key>desc</key>
+		<string>I Street NW And 14th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>14th St. NW And K St. NW</string>
+		<key>lon</key>
+		<string>-77.03195509</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>2</string>
+		<key>stop_id</key>
+		<string>0201</string>
+		<key>lat</key>
+		<string>38.90252276</string>
+		<key>desc</key>
+		<string>14th Street NW And K Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>14th St. NW And RI Av. NW</string>
+		<key>lon</key>
+		<string>-77.03194927</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>2</string>
+		<key>stop_id</key>
+		<string>0202</string>
+		<key>lat</key>
+		<string>38.90883777</string>
+		<key>desc</key>
+		<string>14th Street NW And RI Avenue NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>14th St. NW And U St. NW</string>
+		<key>lon</key>
+		<string>-77.03195074</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>2</string>
+		<key>stop_id</key>
+		<string>0203</string>
+		<key>lat</key>
+		<string>38.91699779</string>
+		<key>desc</key>
+		<string>14th Street NW And U Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Columbia Rd. NW And 14th St. NW</string>
+		<key>lon</key>
+		<string>-77.03251635</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>2</string>
+		<key>stop_id</key>
+		<string>0204</string>
+		<key>lat</key>
+		<string>38.92753836</string>
+		<key>desc</key>
+		<string>Columbia Rd. NW And 14th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Columbia Rd. NW And 16th St. NW</string>
+		<key>lon</key>
+		<string>-77.03648819</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>2</string>
+		<key>stop_id</key>
+		<string>0205</string>
+		<key>lat</key>
+		<string>38.92652528</string>
+		<key>desc</key>
+		<string>Columbia Rd. NW And 16th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Columbia Rd. NW And Adams Mill Rd. NW</string>
+		<key>lon</key>
+		<string>-77.04268424</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>2</string>
+		<key>stop_id</key>
+		<string>0206</string>
+		<key>lat</key>
+		<string>38.92266078</string>
+		<key>desc</key>
+		<string>Columbia Rd. NW And Adams Mill Rd. NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>24th St. NW And Calvert St. NW</string>
+		<key>lon</key>
+		<string>-77.05259844</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>2</string>
+		<key>stop_id</key>
+		<string>0207</string>
+		<key>lat</key>
+		<string>38.92347235</string>
+		<key>desc</key>
+		<string>24th Street NW And Calvert Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Union Station Parking Garage Mezzanine Level</string>
+		<key>lon</key>
+		<string>-77.00617913</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0300</string>
+		<key>lat</key>
+		<string>38.89753847</string>
+		<key>desc</key>
+		<string>Union Station Parking Garage Mezzanine Level</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>1st St. NE And MD Av. NE (U.S. Capitol)</string>
+		<key>lon</key>
+		<string>-77.00592451</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0301</string>
+		<key>lat</key>
+		<string>38.89096903</string>
+		<key>desc</key>
+		<string>1st Street NE And Maryland Avenue NE (U.S. Capitol)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Independence Av. SE And 2nd St. SE</string>
+		<key>lon</key>
+		<string>-77.00351948</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0302</string>
+		<key>lat</key>
+		<string>38.88761368</string>
+		<key>desc</key>
+		<string>Independence Avenue SE And 2nd Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av. SE And 8th St. SE</string>
+		<key>lon</key>
+		<string>-76.99496607</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0303</string>
+		<key>lat</key>
+		<string>38.88418386</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue SE And 8th Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>8th St. SE And G St. SE</string>
+		<key>lon</key>
+		<string>-76.99497491</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0304</string>
+		<key>lat</key>
+		<string>38.88126805</string>
+		<key>desc</key>
+		<string>8th Street SE And G Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>8th St. SE And L St. SE</string>
+		<key>lon</key>
+		<string>-76.9949701</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0305</string>
+		<key>lat</key>
+		<string>38.87753218</string>
+		<key>desc</key>
+		<string>8th Street SE And L Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>600 M St. SE (Washington Navy Yard entrance)</string>
+		<key>lon</key>
+		<string>-76.99865258</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0306</string>
+		<key>lat</key>
+		<string>38.87585537</string>
+		<key>desc</key>
+		<string>600 M Street SE (Washington Navy Yard entrance)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. SE And 3rd St. SE</string>
+		<key>lon</key>
+		<string>-77.00203811</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0307</string>
+		<key>lat</key>
+		<string>38.87648035</string>
+		<key>desc</key>
+		<string>M Street SE And 3rd Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>1st St. SE And K St. SE</string>
+		<key>lon</key>
+		<string>-77.00588221</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0308</string>
+		<key>lat</key>
+		<string>38.87840568</string>
+		<key>desc</key>
+		<string>1st Street SE And K Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NJ Av. SE And M St. SE (Navy Yard Metro entrance)</string>
+		<key>lon</key>
+		<string>-77.00415905</string>
+		<key>number</key>
+		<string>9</string>
+		<key>route_id</key>
+		<string>3</string>
+		<key>stop_id</key>
+		<string>0309</string>
+		<key>lat</key>
+		<string>38.87648091</string>
+		<key>desc</key>
+		<string>New Jersey Avenue SE And M Street SE (Navy Yard Metro entrance)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NJ Av. SE And M St. SE (Navy Yard Metro entrance)</string>
+		<key>lon</key>
+		<string>-77.00415905</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0400</string>
+		<key>lat</key>
+		<string>38.87648091</string>
+		<key>desc</key>
+		<string>New Jersey Avenue SE And M Street SE (Navy Yard Metro entrance)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. SE And 4th St. SE</string>
+		<key>lon</key>
+		<string>-77.00058074</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0401</string>
+		<key>lat</key>
+		<string>38.87647991</string>
+		<key>desc</key>
+		<string>M Street SE And 4th Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>600 M St. SE (Washington Navy Yard entrance)</string>
+		<key>lon</key>
+		<string>-76.99865258</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0402</string>
+		<key>lat</key>
+		<string>38.87585537</string>
+		<key>desc</key>
+		<string>600 M Street SE (Washington Navy Yard entrance)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>8th St. SE And L St. SE</string>
+		<key>lon</key>
+		<string>-76.9949701</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0403</string>
+		<key>lat</key>
+		<string>38.87753218</string>
+		<key>desc</key>
+		<string>8th Street SE And L Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>8th St. SE And G St. SE</string>
+		<key>lon</key>
+		<string>-76.99497491</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0404</string>
+		<key>lat</key>
+		<string>38.88126805</string>
+		<key>desc</key>
+		<string>8th Street SE And G Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av. SE And 7th St. SE</string>
+		<key>lon</key>
+		<string>-76.99617461</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0405</string>
+		<key>lat</key>
+		<string>38.884675</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue SE And 7th Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av. SE And 3rd St. SE</string>
+		<key>lon</key>
+		<string>-77.00204191</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0406</string>
+		<key>lat</key>
+		<string>38.88706801</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue SE And 3rd Street SE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>1st St. NE And MD Av. NE (U.S. Capitol)</string>
+		<key>lon</key>
+		<string>-77.00592451</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0407</string>
+		<key>lat</key>
+		<string>38.89096903</string>
+		<key>desc</key>
+		<string>1st Street NE And Maryland Avenue NE (U.S. Capitol)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Union Station Parking Garage Mezzanine Level</string>
+		<key>lon</key>
+		<string>-77.00617913</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>4</string>
+		<key>stop_id</key>
+		<string>0408</string>
+		<key>lat</key>
+		<string>38.89753847</string>
+		<key>desc</key>
+		<string>Union Station Parking Garage Mezzanine Level</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Const. Av. NW And 17th St. NW</string>
+		<key>lon</key>
+		<string>-77.03948096</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0500</string>
+		<key>lat</key>
+		<string>38.89209974</string>
+		<key>desc</key>
+		<string>Constitution Avenue NW And 17th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Const. Av. NW And 14th St. NW (Museum of American History)</string>
+		<key>lon</key>
+		<string>-77.03196384</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0501</string>
+		<key>lat</key>
+		<string>38.89209321</string>
+		<key>desc</key>
+		<string>Constitution Avenue NW And 14th Street NW (Museum of American History)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Const. Av. NW And 10th St. NW (Museum of Natural History)</string>
+		<key>lon</key>
+		<string>-77.02599044</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0502</string>
+		<key>lat</key>
+		<string>38.89208194</string>
+		<key>desc</key>
+		<string>Constitution Avenue NW And 10th Street NW (Museum of Natural History)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Const. Av. NW And 7th St. NW</string>
+		<key>lon</key>
+		<string>-77.0219001</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0503</string>
+		<key>lat</key>
+		<string>38.89207809</string>
+		<key>desc</key>
+		<string>Constitution Avenue NW And 7th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Const. Av. NW And 6th St. NW (National Gallery of Art West Bldg)</string>
+		<key>lon</key>
+		<string>-77.0199108</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0504</string>
+		<key>lat</key>
+		<string>38.89207584</string>
+		<key>desc</key>
+		<string>Constitution Avenue NW And 6th Street NW (National Gallery of Art West Bldg)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Const. Av. NW And 4th St. NW (National Gallery of Art East Bldg)</string>
+		<key>lon</key>
+		<string>-77.01756466</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0505</string>
+		<key>lat</key>
+		<string>38.89210938</string>
+		<key>desc</key>
+		<string>Constitution Avenue NW And 4th Street NW (National Gallery of Art East Bldg)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>1st St. NE And MD Av. NE (U.S. Capitol)</string>
+		<key>lon</key>
+		<string>-77.00592451</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0506</string>
+		<key>lat</key>
+		<string>38.89096903</string>
+		<key>desc</key>
+		<string>1st Street NE And Maryland Avenue NE (U.S. Capitol)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Independence Av. SW And 2nd St. SW (U. S. Botanical Gardens)</string>
+		<key>lon</key>
+		<string>-77.00351948</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0507</string>
+		<key>lat</key>
+		<string>38.88761368</string>
+		<key>desc</key>
+		<string>Independence Avenue SW And 2nd Street SW (U. S. Botanical Gardens)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Independence Av. SW And 4th St. SW (Museum of the American Indian)</string>
+		<key>lon</key>
+		<string>-77.01754691</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0508</string>
+		<key>lat</key>
+		<string>38.88757127</string>
+		<key>desc</key>
+		<string>Independence Avenue SW And 4th Street SW (Museum of the American Indian)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Independence Av. SW And 6th St. SW (Air and Space Museum)</string>
+		<key>lon</key>
+		<string>-77.01990733</string>
+		<key>number</key>
+		<string>9</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0509</string>
+		<key>lat</key>
+		<string>38.88756704</string>
+		<key>desc</key>
+		<string>Independence Avenue SW And 6th Street SW (Air and Space Museum)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Independence Av. SW And 9th St. SW (Hirshhorn Museum)</string>
+		<key>lon</key>
+		<string>-77.02401584</string>
+		<key>number</key>
+		<string>10</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0510</string>
+		<key>lat</key>
+		<string>38.88756497</string>
+		<key>desc</key>
+		<string>Independence Avenue SW And 9th Street SW (Hirshhorn Museum)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Independence Av. SW And 10th St. SW (Smithsonian Castle)</string>
+		<key>lon</key>
+		<string>-77.02599078</string>
+		<key>number</key>
+		<string>11</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0511</string>
+		<key>lat</key>
+		<string>38.88756629</string>
+		<key>desc</key>
+		<string>Independence Avenue SW And 10th Street SW (Smithsonian Castle)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Independence Av. SW And 14th St. SW</string>
+		<key>lon</key>
+		<string>-77.03195162</string>
+		<key>number</key>
+		<string>12</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0512</string>
+		<key>lat</key>
+		<string>38.88756722</string>
+		<key>desc</key>
+		<string>Independence Avenue SW And 14th Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Const. Av. NW And 17th St. NW</string>
+		<key>lon</key>
+		<string>-77.03948096</string>
+		<key>number</key>
+		<string>13</string>
+		<key>route_id</key>
+		<string>5</string>
+		<key>stop_id</key>
+		<string>0513</string>
+		<key>lat</key>
+		<string>38.89209974</string>
+		<key>desc</key>
+		<string>Constitution Avenue NW And 17th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Union Station Garage</string>
+		<key>lon</key>
+		<string>-77.00617913</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0600</string>
+		<key>lat</key>
+		<string>38.89753847</string>
+		<key>desc</key>
+		<string>Union Station Garage</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mass. Ave, NE And North Capitol St. NE</string>
+		<key>lon</key>
+		<string>-77.00906439</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0601</string>
+		<key>lat</key>
+		<string>38.89746933</string>
+		<key>desc</key>
+		<string>Massachusetts Ave, NE And North Capitol Street NE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mass. Ave, NW And NJ Av., NW</string>
+		<key>lon</key>
+		<string>-77.01242737</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0602</string>
+		<key>lat</key>
+		<string>38.8988566</string>
+		<key>desc</key>
+		<string>Massachusetts Ave, NW And New Jersey Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mass. Av., NW And 5th St. NW</string>
+		<key>lon</key>
+		<string>-77.01892694</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0603</string>
+		<key>lat</key>
+		<string>38.90112396</string>
+		<key>desc</key>
+		<string>Massachusetts Avenue, NW And 5th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mass. Av., NW And 7th St. NW</string>
+		<key>lon</key>
+		<string>-77.02191502</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0604</string>
+		<key>lat</key>
+		<string>38.90210136</string>
+		<key>desc</key>
+		<string>Massachusetts Avenue, NW And 7th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>New York Av., NW And 9th St. NW</string>
+		<key>lon</key>
+		<string>-77.0239891</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0605</string>
+		<key>lat</key>
+		<string>38.90208883</string>
+		<key>desc</key>
+		<string>New York Avenue, NW And 9th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW Between 12th And 13th St.s, NW</string>
+		<key>lon</key>
+		<string>-77.02914906</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0606</string>
+		<key>lat</key>
+		<string>38.90288785</string>
+		<key>desc</key>
+		<string>K Street NW Between 12th And 13th Streets, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 14th St. NW</string>
+		<key>lon</key>
+		<string>-77.03195509</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0607</string>
+		<key>lat</key>
+		<string>38.90252276</string>
+		<key>desc</key>
+		<string>K Street NW And 14th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 16th St. NW</string>
+		<key>lon</key>
+		<string>-77.03654205</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0608</string>
+		<key>lat</key>
+		<string>38.9025252</string>
+		<key>desc</key>
+		<string>K Street NW And 16th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 17th St. NW</string>
+		<key>lon</key>
+		<string>-77.03944583</string>
+		<key>number</key>
+		<string>9</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0609</string>
+		<key>lat</key>
+		<string>38.9025231</string>
+		<key>desc</key>
+		<string>K Street NW And 17th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 18th St. NW</string>
+		<key>lon</key>
+		<string>-77.0416885</string>
+		<key>number</key>
+		<string>10</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0610</string>
+		<key>lat</key>
+		<string>38.90252486</string>
+		<key>desc</key>
+		<string>K Street NW And 18th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 19th St. NW</string>
+		<key>lon</key>
+		<string>-77.04345994</string>
+		<key>number</key>
+		<string>11</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0611</string>
+		<key>lat</key>
+		<string>38.90252407</string>
+		<key>desc</key>
+		<string>K Street NW And 19th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 20th St. NW</string>
+		<key>lon</key>
+		<string>-77.04489742</string>
+		<key>number</key>
+		<string>12</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0612</string>
+		<key>lat</key>
+		<string>38.90252507</string>
+		<key>desc</key>
+		<string>K Street NW And 20th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>21st St. NW And K St. NW</string>
+		<key>lon</key>
+		<string>-77.04664868</string>
+		<key>number</key>
+		<string>13</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0613</string>
+		<key>lat</key>
+		<string>38.90252594</string>
+		<key>desc</key>
+		<string>21st Street NW And K Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 22nd St. NW</string>
+		<key>lon</key>
+		<string>-77.04883143</string>
+		<key>number</key>
+		<string>14</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0614</string>
+		<key>lat</key>
+		<string>38.90208789</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 22nd Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 24th St. NW</string>
+		<key>lon</key>
+		<string>-77.05141648</string>
+		<key>number</key>
+		<string>15</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0615</string>
+		<key>lat</key>
+		<string>38.90297745</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 24th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 25th St. NW</string>
+		<key>lon</key>
+		<string>-77.05330311</string>
+		<key>number</key>
+		<string>16</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0616</string>
+		<key>lat</key>
+		<string>38.90363616</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 25th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 28th St. NW</string>
+		<key>lon</key>
+		<string>-77.05704706</string>
+		<key>number</key>
+		<string>17</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0617</string>
+		<key>lat</key>
+		<string>38.9049413</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 28th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And 30th St. NW</string>
+		<key>lon</key>
+		<string>-77.05916771</string>
+		<key>number</key>
+		<string>18</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0618</string>
+		<key>lat</key>
+		<string>38.90521862</string>
+		<key>desc</key>
+		<string>M Street NW And 30th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And WI Av., NW</string>
+		<key>lon</key>
+		<string>-77.06281147</string>
+		<key>number</key>
+		<string>19</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0619</string>
+		<key>lat</key>
+		<string>38.90517663</string>
+		<key>desc</key>
+		<string>M Street NW And Wisconsin Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And N St. NW</string>
+		<key>lon</key>
+		<string>-77.06303649</string>
+		<key>number</key>
+		<string>20</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0620</string>
+		<key>lat</key>
+		<string>38.90682485</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And N Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And Dumbarton St. NW</string>
+		<key>lon</key>
+		<string>-77.06344784</string>
+		<key>number</key>
+		<string>21</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0621</string>
+		<key>lat</key>
+		<string>38.90760865</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And Dumbarton Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And P St. NW</string>
+		<key>lon</key>
+		<string>-77.06409813</string>
+		<key>number</key>
+		<string>22</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0622</string>
+		<key>lat</key>
+		<string>38.9088377</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And P Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And Q St. NW</string>
+		<key>lon</key>
+		<string>-77.0649042</string>
+		<key>number</key>
+		<string>23</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0623</string>
+		<key>lat</key>
+		<string>38.91036047</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And Q Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And 34th St. NW (Safeway)</string>
+		<key>lon</key>
+		<string>-77.06779476</string>
+		<key>number</key>
+		<string>24</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0624</string>
+		<key>lat</key>
+		<string>38.91576132</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And 34th Street NW (Safeway)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And Whitehaven St. NW</string>
+		<key>lon</key>
+		<string>-77.06875205</string>
+		<key>number</key>
+		<string>25</string>
+		<key>route_id</key>
+		<string>6</string>
+		<key>stop_id</key>
+		<string>0625</string>
+		<key>lat</key>
+		<string>38.91696572</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And Whitehaven Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Whitehaven St. NW And WI Av., NW</string>
+		<key>lon</key>
+		<string>-77.06875205</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0700</string>
+		<key>lat</key>
+		<string>38.91696572</string>
+		<key>desc</key>
+		<string>Whitehaven Street NW And Wisconsin Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And 34th St. NW</string>
+		<key>lon</key>
+		<string>-77.06779476</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0701</string>
+		<key>lat</key>
+		<string>38.91576132</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And 34th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And Q St. NW</string>
+		<key>lon</key>
+		<string>-77.0649042</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0702</string>
+		<key>lat</key>
+		<string>38.91036047</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And Q Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And P St. NW</string>
+		<key>lon</key>
+		<string>-77.06409813</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0703</string>
+		<key>lat</key>
+		<string>38.9088377</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And P Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And O St. NW</string>
+		<key>lon</key>
+		<string>-77.06386659</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0704</string>
+		<key>lat</key>
+		<string>38.90839813</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And O Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And WI Av., NW</string>
+		<key>lon</key>
+		<string>-77.06281147</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0705</string>
+		<key>lat</key>
+		<string>38.90517663</string>
+		<key>desc</key>
+		<string>M Street NW And Wisconsin Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And Thomas Jefferson St. NW</string>
+		<key>lon</key>
+		<string>-77.06016184</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0706</string>
+		<key>lat</key>
+		<string>38.90520134</string>
+		<key>desc</key>
+		<string>M Street NW And Thomas Jefferson Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And 28th St. NW</string>
+		<key>lon</key>
+		<string>-77.05701191</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0707</string>
+		<key>lat</key>
+		<string>38.90523198</string>
+		<key>desc</key>
+		<string>M Street NW And 28th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 26th St. NW</string>
+		<key>lon</key>
+		<string>-77.05475402</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0708</string>
+		<key>lat</key>
+		<string>38.904127</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 26th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 24th St. NW</string>
+		<key>lon</key>
+		<string>-77.05141648</string>
+		<key>number</key>
+		<string>9</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0709</string>
+		<key>lat</key>
+		<string>38.90297745</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 24th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 22nd St. NW</string>
+		<key>lon</key>
+		<string>-77.04883143</string>
+		<key>number</key>
+		<string>10</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0710</string>
+		<key>lat</key>
+		<string>38.90208789</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 22nd Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 21St St. NW</string>
+		<key>lon</key>
+		<string>-77.04665258</string>
+		<key>number</key>
+		<string>11</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0711</string>
+		<key>lat</key>
+		<string>38.90131811</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 21St Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 19th St. NW</string>
+		<key>lon</key>
+		<string>-77.04345994</string>
+		<key>number</key>
+		<string>12</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0712</string>
+		<key>lat</key>
+		<string>38.90252407</string>
+		<key>desc</key>
+		<string>K Street NW And 19th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 17th St. NW</string>
+		<key>lon</key>
+		<string>-77.03850956</string>
+		<key>number</key>
+		<string>13</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0713</string>
+		<key>lat</key>
+		<string>38.9025232</string>
+		<key>desc</key>
+		<string>K Street NW And 17th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 16th St. NW</string>
+		<key>lon</key>
+		<string>-77.03654205</string>
+		<key>number</key>
+		<string>14</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0714</string>
+		<key>lat</key>
+		<string>38.9025252</string>
+		<key>desc</key>
+		<string>K Street NW And 16th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 14th St. NW</string>
+		<key>lon</key>
+		<string>-77.03195509</string>
+		<key>number</key>
+		<string>15</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0715</string>
+		<key>lat</key>
+		<string>38.90252276</string>
+		<key>desc</key>
+		<string>K Street NW And 14th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW Between 12th And 13th St.s, NW</string>
+		<key>lon</key>
+		<string>-77.02914906</string>
+		<key>number</key>
+		<string>16</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0716</string>
+		<key>lat</key>
+		<string>38.90288785</string>
+		<key>desc</key>
+		<string>K Street NW Between 12th And 13th Streets, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW Between 11th And 10th St.s, NW</string>
+		<key>lon</key>
+		<string>-77.02669784</string>
+		<key>number</key>
+		<string>17</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0717</string>
+		<key>lat</key>
+		<string>38.90228524</string>
+		<key>desc</key>
+		<string>K Street NW Between 11th And 10th Streets, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>New York Av., NW And 9th St. NW</string>
+		<key>lon</key>
+		<string>-77.0239891</string>
+		<key>number</key>
+		<string>18</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0718</string>
+		<key>lat</key>
+		<string>38.90208883</string>
+		<key>desc</key>
+		<string>New York Avenue, NW And 9th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mass. Av., NW And 7th St. NW</string>
+		<key>lon</key>
+		<string>-77.02191502</string>
+		<key>number</key>
+		<string>19</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0719</string>
+		<key>lat</key>
+		<string>38.90210136</string>
+		<key>desc</key>
+		<string>Massachusetts Avenue, NW And 7th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mass. Av., NW And 5th St. NW</string>
+		<key>lon</key>
+		<string>-77.01892694</string>
+		<key>number</key>
+		<string>20</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0720</string>
+		<key>lat</key>
+		<string>38.90112396</string>
+		<key>desc</key>
+		<string>Massachusetts Avenue, NW And 5th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mass. Av., NW And 1st St. NW</string>
+		<key>lon</key>
+		<string>-77.00777834</string>
+		<key>number</key>
+		<string>21</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0721</string>
+		<key>lat</key>
+		<string>38.89686006</string>
+		<key>desc</key>
+		<string>Massachusetts Avenue, NW And 1st Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mass. Av., NE And 1st St. NE</string>
+		<key>lon</key>
+		<string>-77.00777834</string>
+		<key>number</key>
+		<string>22</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0722</string>
+		<key>lat</key>
+		<string>38.89686006</string>
+		<key>desc</key>
+		<string>Massachusetts Avenue, NE And 1st Street NE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Union Station Parking Garage Mezzanine Level</string>
+		<key>lon</key>
+		<string>-77.00617913</string>
+		<key>number</key>
+		<string>23</string>
+		<key>route_id</key>
+		<string>7</string>
+		<key>stop_id</key>
+		<string>0723</string>
+		<key>lat</key>
+		<string>38.89753847</string>
+		<key>desc</key>
+		<string>Union Station Parking Garage Mezzanine Level</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>O St. NW Between 8th And 9th St.s, NW</string>
+		<key>lon</key>
+		<string>-77.0236684</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0800</string>
+		<key>lat</key>
+		<string>38.90829753</string>
+		<key>desc</key>
+		<string>O Street NW Between 8th And 9th Streets, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>9th St. NW And N St. NW</string>
+		<key>lon</key>
+		<string>-77.02396275</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0801</string>
+		<key>lat</key>
+		<string>38.90724388</string>
+		<key>desc</key>
+		<string>9th Street NW And N Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>9th St. NW And Mass. Av., NW</string>
+		<key>lon</key>
+		<string>-77.024043</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0802</string>
+		<key>lat</key>
+		<string>38.90292846</string>
+		<key>desc</key>
+		<string>9th Street NW And Massachusetts Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>9th St. NW And Eye St. NW</string>
+		<key>lon</key>
+		<string>-77.02397692</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0803</string>
+		<key>lat</key>
+		<string>38.90086711</string>
+		<key>desc</key>
+		<string>9th Street NW And Eye Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>9th St. NW And H St. NW</string>
+		<key>lon</key>
+		<string>-77.02396523</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0804</string>
+		<key>lat</key>
+		<string>38.89980953</string>
+		<key>desc</key>
+		<string>9th Street NW And H Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>9th St. NW And F St. NW</string>
+		<key>lon</key>
+		<string>-77.02397016</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0805</string>
+		<key>lat</key>
+		<string>38.89728798</string>
+		<key>desc</key>
+		<string>9th Street NW And F Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 9th St. NW</string>
+		<key>lon</key>
+		<string>-77.02397514</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0806</string>
+		<key>lat</key>
+		<string>38.89387657</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 9th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And Const. Av., NW</string>
+		<key>lon</key>
+		<string>-77.0219001</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0807</string>
+		<key>lat</key>
+		<string>38.89207809</string>
+		<key>desc</key>
+		<string>7th Street NW And Constitution Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And Madison Drive, NW</string>
+		<key>lon</key>
+		<string>-77.02190799</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0808</string>
+		<key>lat</key>
+		<string>38.89053816</string>
+		<key>desc</key>
+		<string>7th Street NW And Madison Drive, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. SW And Independence Ave, SW</string>
+		<key>lon</key>
+		<string>-77.02191568</string>
+		<key>number</key>
+		<string>9</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0809</string>
+		<key>lat</key>
+		<string>38.88756287</string>
+		<key>desc</key>
+		<string>7th Street SW And Independence Ave, SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. SW And MD Av., SW</string>
+		<key>lon</key>
+		<string>-77.02191205</string>
+		<key>number</key>
+		<string>10</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0810</string>
+		<key>lat</key>
+		<string>38.88632233</string>
+		<key>desc</key>
+		<string>7th Street SW And Maryland Avenue, SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. SW And E St. SW</string>
+		<key>lon</key>
+		<string>-77.02190573</string>
+		<key>number</key>
+		<string>11</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0811</string>
+		<key>lat</key>
+		<string>38.88323777</string>
+		<key>desc</key>
+		<string>7th Street SW And E Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. SW And G St. SW</string>
+		<key>lon</key>
+		<string>-77.02190589</string>
+		<key>number</key>
+		<string>12</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0812</string>
+		<key>lat</key>
+		<string>38.8812796</string>
+		<key>desc</key>
+		<string>7th Street SW And G Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>I St. SW And 7th St. SW</string>
+		<key>lon</key>
+		<string>-77.02192223</string>
+		<key>number</key>
+		<string>13</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0813</string>
+		<key>lat</key>
+		<string>38.87929527</string>
+		<key>desc</key>
+		<string>I Street SW And 7th Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>6th St. SW And K St. SW</string>
+		<key>lon</key>
+		<string>-77.01989187</string>
+		<key>number</key>
+		<string>14</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0814</string>
+		<key>lat</key>
+		<string>38.87841116</string>
+		<key>desc</key>
+		<string>6th Street SW And K Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>6th St. SW And Water St. SW</string>
+		<key>lon</key>
+		<string>-77.02072904</string>
+		<key>number</key>
+		<string>15</string>
+		<key>route_id</key>
+		<string>8</string>
+		<key>stop_id</key>
+		<string>0815</string>
+		<key>lat</key>
+		<string>38.87569372</string>
+		<key>desc</key>
+		<string>6th Street SW And Water Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>6th St. SW And Water St. SW</string>
+		<key>lon</key>
+		<string>-77.02072904</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0900</string>
+		<key>lat</key>
+		<string>38.87569372</string>
+		<key>desc</key>
+		<string>6th Street SW And Water Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Water St. SW And 7th St. SW</string>
+		<key>lon</key>
+		<string>-77.02310635</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0901</string>
+		<key>lat</key>
+		<string>38.87831195</string>
+		<key>desc</key>
+		<string>Water Street SW And 7th Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Water St. SW And 9th St. SW</string>
+		<key>lon</key>
+		<string>-77.02523836</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0902</string>
+		<key>lat</key>
+		<string>38.87999778</string>
+		<key>desc</key>
+		<string>Water Street SW And 9th Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>G St. SW Between 9th and 7th St.s, SW</string>
+		<key>lon</key>
+		<string>-77.02340192</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0903</string>
+		<key>lat</key>
+		<string>38.88147445</string>
+		<key>desc</key>
+		<string>G Street SW Between 9th and 7th Streets, SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. SW And G St. SW</string>
+		<key>lon</key>
+		<string>-77.02190589</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0904</string>
+		<key>lat</key>
+		<string>38.8812796</string>
+		<key>desc</key>
+		<string>7th Street SW And G Street SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. SW And MD Av., SW</string>
+		<key>lon</key>
+		<string>-77.02191205</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0905</string>
+		<key>lat</key>
+		<string>38.88632233</string>
+		<key>desc</key>
+		<string>7th Street SW And Maryland Avenue, SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. SW And Independence Ave, SW</string>
+		<key>lon</key>
+		<string>-77.02191568</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0906</string>
+		<key>lat</key>
+		<string>38.88756287</string>
+		<key>desc</key>
+		<string>7th Street SW And Independence Ave, SW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And Const. Av., NW</string>
+		<key>lon</key>
+		<string>-77.0219001</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0907</string>
+		<key>lat</key>
+		<string>38.89207809</string>
+		<key>desc</key>
+		<string>7th Street NW And Constitution Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th  St. NW And Penn. Av., NW</string>
+		<key>lon</key>
+		<string>-77.02191906</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0908</string>
+		<key>lat</key>
+		<string>38.89329477</string>
+		<key>desc</key>
+		<string>7th  Street NW And Pennsylvania Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And E St. NW</string>
+		<key>lon</key>
+		<string>-77.02191725</string>
+		<key>number</key>
+		<string>9</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0909</string>
+		<key>lat</key>
+		<string>38.89613181</string>
+		<key>desc</key>
+		<string>7th Street NW And E Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And F St. NW</string>
+		<key>lon</key>
+		<string>-77.02191587</string>
+		<key>number</key>
+		<string>10</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0910</string>
+		<key>lat</key>
+		<string>38.89727566</string>
+		<key>desc</key>
+		<string>7th Street NW And F Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And H St. NW</string>
+		<key>lon</key>
+		<string>-77.02191443</string>
+		<key>number</key>
+		<string>11</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0911</string>
+		<key>lat</key>
+		<string>38.89981313</string>
+		<key>desc</key>
+		<string>7th Street NW And H Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And Mass., NW</string>
+		<key>lon</key>
+		<string>-77.02191502</string>
+		<key>number</key>
+		<string>12</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0912</string>
+		<key>lat</key>
+		<string>38.90210136</string>
+		<key>desc</key>
+		<string>7th Street NW And Massachusetts, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And L St. NW</string>
+		<key>lon</key>
+		<string>-77.02191395</string>
+		<key>number</key>
+		<string>13</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0913</string>
+		<key>lat</key>
+		<string>38.90416783</string>
+		<key>desc</key>
+		<string>7th Street NW And L Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And M St. NW</string>
+		<key>lon</key>
+		<string>-77.02191414</string>
+		<key>number</key>
+		<string>14</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0914</string>
+		<key>lat</key>
+		<string>38.90564349</string>
+		<key>desc</key>
+		<string>7th Street NW And M Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7th St. NW And N St. NW</string>
+		<key>lon</key>
+		<string>-77.02191902</string>
+		<key>number</key>
+		<string>15</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0915</string>
+		<key>lat</key>
+		<string>38.90723986</string>
+		<key>desc</key>
+		<string>7th Street NW And N Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>O St. NW Between 8th And 9th St.s, NW</string>
+		<key>lon</key>
+		<string>-77.0236684</string>
+		<key>number</key>
+		<string>16</string>
+		<key>route_id</key>
+		<string>9</string>
+		<key>stop_id</key>
+		<string>0916</string>
+		<key>lat</key>
+		<string>38.90829753</string>
+		<key>desc</key>
+		<string>O Street NW Between 8th And 9th Streets, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 17th St. NW</string>
+		<key>lon</key>
+		<string>-77.03944583</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1000</string>
+		<key>lat</key>
+		<string>38.9025231</string>
+		<key>desc</key>
+		<string>K Street NW And 17th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 18th St. NW</string>
+		<key>lon</key>
+		<string>-77.0416885</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1001</string>
+		<key>lat</key>
+		<string>38.90252486</string>
+		<key>desc</key>
+		<string>K Street NW And 18th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 19th St. NW</string>
+		<key>lon</key>
+		<string>-77.04345994</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1002</string>
+		<key>lat</key>
+		<string>38.90252407</string>
+		<key>desc</key>
+		<string>K Street NW And 19th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 20th St. NW</string>
+		<key>lon</key>
+		<string>-77.04489742</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1003</string>
+		<key>lat</key>
+		<string>38.90252507</string>
+		<key>desc</key>
+		<string>K Street NW And 20th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>21st St. NW And K St. NW</string>
+		<key>lon</key>
+		<string>-77.04664868</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1004</string>
+		<key>lat</key>
+		<string>38.90252594</string>
+		<key>desc</key>
+		<string>21st Street NW And K Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 22nd St. NW</string>
+		<key>lon</key>
+		<string>-77.04883143</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1005</string>
+		<key>lat</key>
+		<string>38.90208789</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 22nd Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 24th St. NW</string>
+		<key>lon</key>
+		<string>-77.05141648</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1006</string>
+		<key>lat</key>
+		<string>38.90297745</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 24th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 25th St. NW</string>
+		<key>lon</key>
+		<string>-77.05330311</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1007</string>
+		<key>lat</key>
+		<string>38.90363616</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 25th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 28th St. NW</string>
+		<key>lon</key>
+		<string>-77.05704706</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1008</string>
+		<key>lat</key>
+		<string>38.9049413</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 28th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And 30th St. NW</string>
+		<key>lon</key>
+		<string>-77.05916771</string>
+		<key>number</key>
+		<string>9</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1009</string>
+		<key>lat</key>
+		<string>38.90521862</string>
+		<key>desc</key>
+		<string>M Street NW And 30th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And WI Av., NW</string>
+		<key>lon</key>
+		<string>-77.06281147</string>
+		<key>number</key>
+		<string>10</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1010</string>
+		<key>lat</key>
+		<string>38.90517663</string>
+		<key>desc</key>
+		<string>M Street NW And Wisconsin Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And N St. NW</string>
+		<key>lon</key>
+		<string>-77.06303649</string>
+		<key>number</key>
+		<string>11</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1011</string>
+		<key>lat</key>
+		<string>38.90682485</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And N Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And Dumbarton St. NW</string>
+		<key>lon</key>
+		<string>-77.06344784</string>
+		<key>number</key>
+		<string>12</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1012</string>
+		<key>lat</key>
+		<string>38.90760865</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And Dumbarton Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And P St. NW</string>
+		<key>lon</key>
+		<string>-77.06409813</string>
+		<key>number</key>
+		<string>13</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1013</string>
+		<key>lat</key>
+		<string>38.9088377</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And P Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And Q St. NW</string>
+		<key>lon</key>
+		<string>-77.0649042</string>
+		<key>number</key>
+		<string>14</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1014</string>
+		<key>lat</key>
+		<string>38.91036047</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And Q Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And 34th St. NW (Safeway)</string>
+		<key>lon</key>
+		<string>-77.06779476</string>
+		<key>number</key>
+		<string>15</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1015</string>
+		<key>lat</key>
+		<string>38.91576132</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And 34th Street NW (Safeway)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And Whitehaven St. NW</string>
+		<key>lon</key>
+		<string>-77.06875205</string>
+		<key>number</key>
+		<string>16</string>
+		<key>route_id</key>
+		<string>10</string>
+		<key>stop_id</key>
+		<string>1016</string>
+		<key>lat</key>
+		<string>38.91696572</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And Whitehaven Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Whitehaven St. NW And WI Av., NW</string>
+		<key>lon</key>
+		<string>-77.06875205</string>
+		<key>number</key>
+		<string>0</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1100</string>
+		<key>lat</key>
+		<string>38.91696572</string>
+		<key>desc</key>
+		<string>Whitehaven Street NW And Wisconsin Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And 34th St. NW</string>
+		<key>lon</key>
+		<string>-77.06779476</string>
+		<key>number</key>
+		<string>1</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1101</string>
+		<key>lat</key>
+		<string>38.91576132</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And 34th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And Q St. NW</string>
+		<key>lon</key>
+		<string>-77.0649042</string>
+		<key>number</key>
+		<string>2</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1102</string>
+		<key>lat</key>
+		<string>38.91036047</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And Q Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And P St. NW</string>
+		<key>lon</key>
+		<string>-77.06409813</string>
+		<key>number</key>
+		<string>3</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1103</string>
+		<key>lat</key>
+		<string>38.9088377</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And P Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>WI Av., NW And O St. NW</string>
+		<key>lon</key>
+		<string>-77.06386659</string>
+		<key>number</key>
+		<string>4</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1104</string>
+		<key>lat</key>
+		<string>38.90839813</string>
+		<key>desc</key>
+		<string>Wisconsin Avenue, NW And O Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And WI Av., NW</string>
+		<key>lon</key>
+		<string>-77.06281147</string>
+		<key>number</key>
+		<string>5</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1105</string>
+		<key>lat</key>
+		<string>38.90517663</string>
+		<key>desc</key>
+		<string>M Street NW And Wisconsin Avenue, NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And Thomas Jefferson St. NW</string>
+		<key>lon</key>
+		<string>-77.06016184</string>
+		<key>number</key>
+		<string>6</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1106</string>
+		<key>lat</key>
+		<string>38.90520134</string>
+		<key>desc</key>
+		<string>M Street NW And Thomas Jefferson Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>M St. NW And 28th St. NW</string>
+		<key>lon</key>
+		<string>-77.05701191</string>
+		<key>number</key>
+		<string>7</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1107</string>
+		<key>lat</key>
+		<string>38.90523198</string>
+		<key>desc</key>
+		<string>M Street NW And 28th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 26th St. NW</string>
+		<key>lon</key>
+		<string>-77.05475402</string>
+		<key>number</key>
+		<string>8</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1108</string>
+		<key>lat</key>
+		<string>38.904127</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 26th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 24th St. NW</string>
+		<key>lon</key>
+		<string>-77.05141648</string>
+		<key>number</key>
+		<string>9</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1109</string>
+		<key>lat</key>
+		<string>38.90297745</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 24th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 22nd St. NW</string>
+		<key>lon</key>
+		<string>-77.04883143</string>
+		<key>number</key>
+		<string>10</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1110</string>
+		<key>lat</key>
+		<string>38.90208789</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 22nd Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Penn. Av., NW And 21St St. NW</string>
+		<key>lon</key>
+		<string>-77.04665258</string>
+		<key>number</key>
+		<string>11</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1111</string>
+		<key>lat</key>
+		<string>38.90131811</string>
+		<key>desc</key>
+		<string>Pennsylvania Avenue, NW And 21St Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 19th St. NW</string>
+		<key>lon</key>
+		<string>-77.04345994</string>
+		<key>number</key>
+		<string>12</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1112</string>
+		<key>lat</key>
+		<string>38.90252407</string>
+		<key>desc</key>
+		<string>K Street NW And 19th Street NW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K St. NW And 17th St. NW</string>
+		<key>lon</key>
+		<string>-77.03850956</string>
+		<key>number</key>
+		<string>13</string>
+		<key>route_id</key>
+		<string>11</string>
+		<key>stop_id</key>
+		<string>1113</string>
+		<key>lat</key>
+		<string>38.9025232</string>
+		<key>desc</key>
+		<string>K Street NW And 17th Street NW</string>
+	</dict>
+</array>
+</plist>
